@@ -13,7 +13,8 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Modelar Protótipo no Figma
+- [ ] Levantar Requisitos e Assets do Projeto.
+- [ ] Modelar Protótipo no Figma.
 
 
 ## 📝 Pré-requisitos
