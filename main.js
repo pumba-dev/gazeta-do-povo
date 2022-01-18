@@ -1,8 +1,9 @@
 import './styles/reset.css'
 import './styles/style.css'
 import './styles/colors.css'
+import './components/shared/logo.js'
 
-class $RootApp extends HTMLElement {
+class App extends HTMLElement {
   constructor() {
     super()
     this.build()
@@ -11,11 +12,9 @@ class $RootApp extends HTMLElement {
   build() {
     const shadow = this.attachShadow({ mode: 'open' })
 
-    const $title = document.createElement('h1')
-    $title.classList.add('root-app')
-    $title.textContent = "Pumba Developer"
+    const $logo = document.createElement('logo-cp')
 
-    shadow.appendChild($title)
+    shadow.appendChild($logo)
     shadow.appendChild(this.styles())
   }
 
@@ -30,6 +29,6 @@ class $RootApp extends HTMLElement {
   }
 }
 
-customElements.define('root-app', $RootApp)
+customElements.define('root-app', App)
 
 
