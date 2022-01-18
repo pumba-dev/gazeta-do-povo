@@ -13,6 +13,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
+- [x] Configurar Ambiente de Desenvolvimento.
 - [x] Levantar Requisitos e Assets do Projeto.
 - [ ] Modelar Protótipo no Figma.
 
