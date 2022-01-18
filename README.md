@@ -28,7 +28,7 @@ Requisitos definidos pela empresa:
 - URL Base para Imagens
     - https://clube-static.clubegazetadopovo.com.br/
 - Campo de Busca Com Filtro Atualizando por Letra
-- Mostrar Imagem e Nome do Estabelecimento
+- Mostrar Imagem (*cover*) e Nome do Estabelecimento (*fantasyName*)
 - Mostrar Porcentagem de Desconto do Estabelecimento (*discountAmount*)
 - Listar Estabelecimentos em Ordem Alfabética (*fantasyName*)
 - Layout Responsivo

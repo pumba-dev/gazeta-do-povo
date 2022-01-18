@@ -1,0 +1,2057 @@
+[
+    {
+        "id": 54,
+        "slug": "imax-palladium",
+        "fantasyName": "Imax Palladium",
+        "logo": "images/parceiros/1636738059178.blob",
+        "cover": "images/parceiros/1636738059428.jpg",
+        "discountAmount": 50,
+        "publishedVersion": 23,
+        "PartnerTags": [
+            {
+                "id": 5027,
+                "tagsId": 6,
+                "partnerId": 54,
+                "createdBy": 311,
+                "createdAt": "2021-12-28T18:02:00.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-28T18:02:00.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "slug": "tatibana-japanese-cuisine",
+        "fantasyName": "Tatibana Japanese Cuisine",
+        "logo": "parceiros/411579098938048.jpeg",
+        "cover": "parceiros/411579098938048.jpeg",
+        "discountAmount": 15,
+        "publishedVersion": 15,
+        "PartnerTags": []
+    },
+    {
+        "id": 56,
+        "slug": "orymaki-sushi-house",
+        "fantasyName": "Orymaki Sushi House e Delivery",
+        "logo": "parceiros/811579903748296.png",
+        "cover": "parceiros/811579903748296.png",
+        "discountAmount": 20,
+        "publishedVersion": 12,
+        "PartnerTags": [
+            {
+                "id": 2373,
+                "tagsId": 26,
+                "partnerId": 56,
+                "createdBy": 10,
+                "createdAt": "2020-04-14T16:18:34.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-04-14T16:18:34.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "slug": "zapata-mexican-bar",
+        "fantasyName": "Zapata Mexican Bar",
+        "logo": "images/parceiros/1629744799658.blob",
+        "cover": "images/parceiros/1629744799951.png",
+        "discountAmount": 20,
+        "publishedVersion": 100,
+        "PartnerTags": [
+            {
+                "id": 4776,
+                "tagsId": 26,
+                "partnerId": 58,
+                "createdBy": 1,
+                "createdAt": "2021-09-02T14:16:31.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-09-02T14:16:31.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "slug": "kinder-park-parque-de-diversoes",
+        "fantasyName": "Kinder Park Parque de Diversões",
+        "logo": "parceiros/211579184193298.png",
+        "cover": "parceiros/211579184193298.png",
+        "discountAmount": 25,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 476,
+                "tagsId": 20,
+                "partnerId": 59,
+                "createdBy": 13,
+                "createdAt": "2020-01-22T19:32:36.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-22T19:32:36.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "slug": "d-vicz-sorvetes-finos",
+        "fantasyName": "D'Vicz Sorvetes Finos",
+        "logo": "parceiros/711579890666316.jpeg",
+        "cover": "parceiros/711579890666316.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 38,
+        "PartnerTags": []
+    },
+    {
+        "id": 61,
+        "slug": "degusto-cafe",
+        "fantasyName": "Degusto Café",
+        "logo": "images/parceiros/1603373538706.png",
+        "cover": "images/parceiros/1603373538706.png",
+        "discountAmount": 12,
+        "publishedVersion": 14,
+        "PartnerTags": [
+            {
+                "id": 3653,
+                "tagsId": 5,
+                "partnerId": 61,
+                "createdBy": 10,
+                "createdAt": "2020-10-22T13:32:21.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-10-22T13:32:21.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 3654,
+                "tagsId": 8,
+                "partnerId": 61,
+                "createdBy": 10,
+                "createdAt": "2020-10-22T13:32:21.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-10-22T13:32:21.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "slug": "milk-creamery-souq",
+        "fantasyName": "Milk Creamery - Souq",
+        "logo": "parceiros/211579097508907.png",
+        "cover": "parceiros/211579097508907.png",
+        "discountAmount": 10,
+        "publishedVersion": 10,
+        "PartnerTags": [
+            {
+                "id": 3015,
+                "tagsId": 28,
+                "partnerId": 63,
+                "createdBy": 1,
+                "createdAt": "2020-07-21T17:38:46.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-07-21T17:38:46.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "slug": "a-batalha-dos-espetos-souq",
+        "fantasyName": "A Batalha dos Espetos - Souq",
+        "logo": "parceiros/411579800187049.png",
+        "cover": "parceiros/411579800187049.png",
+        "discountAmount": 10,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 4555,
+                "tagsId": 26,
+                "partnerId": 64,
+                "createdBy": 10,
+                "createdAt": "2021-03-30T17:45:54.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-30T17:45:54.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "slug": "teejay-s-american-burger-souq",
+        "fantasyName": "Teejay´s American Burger - Souq",
+        "logo": "parceiros/311579886588115.jpeg",
+        "cover": "parceiros/311579886588115.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 712,
+                "tagsId": 15,
+                "partnerId": 65,
+                "createdBy": 82,
+                "createdAt": "2020-01-24T17:23:09.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-24T17:23:09.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "slug": "ancoras-fish-e-chips-souq",
+        "fantasyName": "Âncoras Fish e Chips - Souq",
+        "logo": "parceiros/311579892073645.jpeg",
+        "cover": "parceiros/311579892073645.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 10,
+        "PartnerTags": [
+            {
+                "id": 1584,
+                "tagsId": 26,
+                "partnerId": 66,
+                "createdBy": 13,
+                "createdAt": "2020-02-12T16:29:59.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-02-12T16:29:59.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "slug": "batatiba-souq",
+        "fantasyName": "Batatiba - Souq",
+        "logo": "parceiros/511579815296717.jpeg",
+        "cover": "parceiros/511579815296717.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 631,
+                "tagsId": 26,
+                "partnerId": 67,
+                "createdBy": 82,
+                "createdAt": "2020-01-23T21:35:00.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T21:35:00.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "slug": "beer-mad",
+        "fantasyName": "Beer Mad",
+        "logo": "parceiros/811579885029437.jpeg",
+        "cover": "parceiros/811579885029437.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 21,
+        "PartnerTags": [
+            {
+                "id": 4045,
+                "tagsId": 3,
+                "partnerId": 68,
+                "createdBy": 10,
+                "createdAt": "2021-02-03T14:43:27.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-02-03T14:43:27.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "slug": "batatiba-minis-souq",
+        "fantasyName": "Batatiba Minis - Souq",
+        "logo": "parceiros/711579815656688.jpeg",
+        "cover": "parceiros/711579815656688.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 632,
+                "tagsId": 17,
+                "partnerId": 69,
+                "createdBy": 82,
+                "createdAt": "2020-01-23T21:40:58.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T21:40:58.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "slug": "cantina-bella-italia-souq",
+        "fantasyName": "Cantina Bella Itália - Souq",
+        "logo": "parceiros/711579882640988.jpeg",
+        "cover": "parceiros/711579882640988.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 1583,
+                "tagsId": 26,
+                "partnerId": 70,
+                "createdBy": 13,
+                "createdAt": "2020-02-12T16:29:13.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-02-12T16:29:13.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "slug": "berrygood-souq",
+        "fantasyName": "BerryGood - Souq",
+        "logo": "images/parceiros/1616440508659.png",
+        "cover": "images/parceiros/1611942734804.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 12,
+        "PartnerTags": [
+            {
+                "id": 4529,
+                "tagsId": 8,
+                "partnerId": 71,
+                "createdBy": 311,
+                "createdAt": "2021-03-22T19:15:11.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-22T19:15:11.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "slug": "burgmaker-souq",
+        "fantasyName": "Burgmaker - Souq",
+        "logo": "parceiros/011579112105557.png",
+        "cover": "parceiros/011579112105557.png",
+        "discountAmount": 10,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 965,
+                "tagsId": 15,
+                "partnerId": 72,
+                "createdBy": 86,
+                "createdAt": "2020-01-25T12:52:39.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-25T12:52:39.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "slug": "wine-not-souq",
+        "fantasyName": "Wine Not? - Souq",
+        "logo": "parceiros/411579099045775.jpeg",
+        "cover": "parceiros/411579099045775.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 10,
+        "PartnerTags": [
+            {
+                "id": 568,
+                "tagsId": 3,
+                "partnerId": 74,
+                "createdBy": 13,
+                "createdAt": "2020-01-23T17:50:41.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T17:50:41.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "slug": "sra-cuisine-souq",
+        "fantasyName": "Sra. Cuisine - Souq",
+        "logo": "parceiros/111576092217007.jpeg",
+        "cover": "parceiros/111576092217007.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 546,
+                "tagsId": 26,
+                "partnerId": 75,
+                "createdBy": 13,
+                "createdAt": "2020-01-23T17:24:18.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T17:24:18.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "slug": "chelsea-burgers-shakes",
+        "fantasyName": "Chelsea Burgers & Shakes",
+        "logo": "images/parceiros/1615926629586.png",
+        "cover": "images/parceiros/1615917732831.png",
+        "discountAmount": 20,
+        "publishedVersion": 34,
+        "PartnerTags": []
+    },
+    {
+        "id": 79,
+        "slug": "barao-da-navalha-barbearia-premium",
+        "fantasyName": "Barão da Navalha Barbearia Premium",
+        "logo": "images/parceiros/1638298087754.blob",
+        "cover": "images/parceiros/1638298088165.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 17,
+        "PartnerTags": []
+    },
+    {
+        "id": 81,
+        "slug": "saanga-grill",
+        "fantasyName": "Saanga Grill",
+        "logo": "images/parceiros/1638465510557.blob",
+        "cover": "images/parceiros/1638465510999.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 18,
+        "PartnerTags": [
+            {
+                "id": 4958,
+                "tagsId": 26,
+                "partnerId": 81,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:18:31.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:18:31.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "slug": "fabrica-cafeteria",
+        "fantasyName": "Fábrica Cafeteria",
+        "logo": "parceiros/011576606951866.jpeg",
+        "cover": "parceiros/011576606951866.jpeg",
+        "discountAmount": 15,
+        "publishedVersion": 20,
+        "PartnerTags": [
+            {
+                "id": 4299,
+                "tagsId": 5,
+                "partnerId": 84,
+                "createdBy": 10,
+                "createdAt": "2021-03-02T19:06:08.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-02T19:06:08.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4300,
+                "tagsId": 8,
+                "partnerId": 84,
+                "createdBy": 10,
+                "createdAt": "2021-03-02T19:06:08.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-02T19:06:08.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "slug": "fabrica-gourmet-hamburgueria",
+        "fantasyName": "Fábrica Gourmet Hamburgueria",
+        "logo": "images/parceiros/1615917814835.jpeg",
+        "cover": "images/parceiros/1615917815155.png",
+        "discountAmount": 15,
+        "publishedVersion": 33,
+        "PartnerTags": [
+            {
+                "id": 4540,
+                "tagsId": 15,
+                "partnerId": 85,
+                "createdBy": 311,
+                "createdAt": "2021-03-23T17:28:49.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-23T17:28:49.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "slug": "fabrica-pizza-bar",
+        "fantasyName": "Fábrica Pizza Bar",
+        "logo": "images/parceiros/1615918913254.png",
+        "cover": "images/parceiros/1615918913635.png",
+        "discountAmount": 15,
+        "publishedVersion": 21,
+        "PartnerTags": [
+            {
+                "id": 4479,
+                "tagsId": 24,
+                "partnerId": 86,
+                "createdBy": 311,
+                "createdAt": "2021-03-16T18:21:54.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-16T18:21:54.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "slug": "souq-curitiba",
+        "fantasyName": "Souq Curitiba",
+        "logo": "parceiros/811576676791174.jpeg",
+        "cover": "parceiros/811576676791174.jpeg",
+        "discountAmount": 10,
+        "publishedVersion": 9,
+        "PartnerTags": [
+            {
+                "id": 541,
+                "tagsId": 2,
+                "partnerId": 90,
+                "createdBy": 13,
+                "createdAt": "2020-01-23T17:22:19.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T17:22:19.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 542,
+                "tagsId": 17,
+                "partnerId": 90,
+                "createdBy": 13,
+                "createdAt": "2020-01-23T17:22:19.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T17:22:19.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 543,
+                "tagsId": 26,
+                "partnerId": 90,
+                "createdBy": 13,
+                "createdAt": "2020-01-23T17:22:19.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T17:22:19.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "slug": "escape60",
+        "fantasyName": "Escape60",
+        "logo": "parceiros/411579885953872.png",
+        "cover": "parceiros/411579885953872.png",
+        "discountAmount": 20,
+        "publishedVersion": 11,
+        "PartnerTags": []
+    },
+    {
+        "id": 97,
+        "slug": "jamies-italian",
+        "fantasyName": "Jamie's Italian",
+        "logo": "images/parceiros/1598470516558.png",
+        "cover": "images/parceiros/1598470516558.png",
+        "discountAmount": 25,
+        "publishedVersion": 27,
+        "PartnerTags": [
+            {
+                "id": 4891,
+                "tagsId": 26,
+                "partnerId": 97,
+                "createdBy": 311,
+                "createdAt": "2021-11-23T13:48:58.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-23T13:48:58.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "slug": "taco-el-pancho",
+        "fantasyName": "Taco El Pancho",
+        "logo": "images/parceiros/1638465472348.blob",
+        "cover": "images/parceiros/1638465472801.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 17,
+        "PartnerTags": [
+            {
+                "id": 4955,
+                "tagsId": 26,
+                "partnerId": 100,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:17:53.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:17:53.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4956,
+                "tagsId": 17,
+                "partnerId": 100,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:17:53.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:17:53.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4957,
+                "tagsId": 3,
+                "partnerId": 100,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:17:53.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:17:53.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "slug": "nixons-barbearia",
+        "fantasyName": "Nixon's Barbearia",
+        "logo": "parceiros/811579906109873.png",
+        "cover": "parceiros/811579906109873.png",
+        "discountAmount": 20,
+        "publishedVersion": 10,
+        "PartnerTags": [
+            {
+                "id": 3576,
+                "tagsId": 4,
+                "partnerId": 101,
+                "createdBy": 1,
+                "createdAt": "2020-10-05T16:26:56.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-10-05T16:26:56.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "slug": "sheridans-irish-pub",
+        "fantasyName": "Sheridans Irish Pub",
+        "logo": "parceiros/511579098096594.jpeg",
+        "cover": "parceiros/511579098096594.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 15,
+        "PartnerTags": [
+            {
+                "id": 4556,
+                "tagsId": 3,
+                "partnerId": 105,
+                "createdBy": 10,
+                "createdAt": "2021-03-30T17:46:35.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-30T17:46:35.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "slug": "garbanzo-restaurante",
+        "fantasyName": "Garbanzo Restaurante",
+        "logo": "images/parceiros/1639074841094.blob",
+        "cover": "images/parceiros/1639074841325.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 17,
+        "PartnerTags": [
+            {
+                "id": 5001,
+                "tagsId": 26,
+                "partnerId": 107,
+                "createdBy": 311,
+                "createdAt": "2021-12-09T18:34:01.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-09T18:34:01.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "slug": "uci-cinemas",
+        "fantasyName": "UCI - Cinemas",
+        "logo": "images/parceiros/1636577081140.blob",
+        "cover": "images/parceiros/1636577081435.jpg",
+        "discountAmount": 50,
+        "publishedVersion": 28,
+        "PartnerTags": []
+    },
+    {
+        "id": 110,
+        "slug": "cinesystem---cinemas",
+        "fantasyName": "Cinesystem - Cinemas",
+        "logo": "images/parceiros/1636577837782.blob",
+        "cover": "images/parceiros/1636577838075.jpg",
+        "discountAmount": 50,
+        "publishedVersion": 33,
+        "PartnerTags": [
+            {
+                "id": 5026,
+                "tagsId": 6,
+                "partnerId": 110,
+                "createdBy": 311,
+                "createdAt": "2021-12-28T17:59:28.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-28T17:59:28.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "slug": "cinepolis",
+        "fantasyName": "Cinépolis",
+        "logo": "images/parceiros/1637084982842.blob",
+        "cover": "images/parceiros/1637084983062.jpg",
+        "discountAmount": 50,
+        "publishedVersion": 42,
+        "PartnerTags": [
+            {
+                "id": 5028,
+                "tagsId": 6,
+                "partnerId": 121,
+                "createdBy": 311,
+                "createdAt": "2021-12-28T18:03:39.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-28T18:03:39.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "slug": "cineplex---cinemas",
+        "fantasyName": "Cineplex - Cinemas",
+        "logo": "parceiros/311580931005322.png",
+        "cover": "parceiros/311580931005322.png",
+        "discountAmount": 50,
+        "publishedVersion": 16,
+        "PartnerTags": []
+    },
+    {
+        "id": 124,
+        "slug": "cine-passeio",
+        "fantasyName": "Cine Passeio",
+        "logo": "parceiros/611578254776882.jpeg",
+        "cover": "parceiros/611578254776882.jpeg",
+        "discountAmount": 50,
+        "publishedVersion": 16,
+        "PartnerTags": []
+    },
+    {
+        "id": 125,
+        "slug": "coco-bambu",
+        "fantasyName": "Coco Bambu",
+        "logo": "images/parceiros/1603372123109.png",
+        "cover": "images/parceiros/1615385282555.png",
+        "discountAmount": 10,
+        "publishedVersion": 20,
+        "PartnerTags": []
+    },
+    {
+        "id": 126,
+        "slug": "c-la-vie-restaurante",
+        "fantasyName": "C La Vie Restaurante",
+        "logo": "images/parceiros/1638478672296.blob",
+        "cover": "images/parceiros/1638478672592.jpg",
+        "discountAmount": 15,
+        "publishedVersion": 22,
+        "PartnerTags": []
+    },
+    {
+        "id": 129,
+        "slug": "bar-do-victor",
+        "fantasyName": "Bar do Victor",
+        "logo": "images/parceiros/1638895437843.blob",
+        "cover": "images/parceiros/1638895438321.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 22,
+        "PartnerTags": [
+            {
+                "id": 4987,
+                "tagsId": 26,
+                "partnerId": 129,
+                "createdBy": 311,
+                "createdAt": "2021-12-07T16:44:00.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-07T16:44:00.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4988,
+                "tagsId": 10,
+                "partnerId": 129,
+                "createdBy": 311,
+                "createdAt": "2021-12-07T16:44:00.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-07T16:44:00.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "slug": "serra-verde-express",
+        "fantasyName": "Serra Verde Express",
+        "logo": "parceiros/511578664775134.jpeg",
+        "cover": "parceiros/511578664775134.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 20,
+        "PartnerTags": [
+            {
+                "id": 4841,
+                "tagsId": 16,
+                "partnerId": 130,
+                "createdBy": 311,
+                "createdAt": "2021-10-19T21:01:14.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-10-19T21:01:14.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "slug": "estancia-hidromineral-ouro-fino",
+        "fantasyName": "Estância Hidromineral Ouro Fino",
+        "logo": "parceiros/711578666571374.jpeg",
+        "cover": "parceiros/711578666571374.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 9,
+        "PartnerTags": [
+            {
+                "id": 452,
+                "tagsId": 30,
+                "partnerId": 131,
+                "createdBy": 13,
+                "createdAt": "2020-01-22T18:57:55.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-22T18:57:55.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 453,
+                "tagsId": 20,
+                "partnerId": 131,
+                "createdBy": 13,
+                "createdAt": "2020-01-22T18:57:55.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-22T18:57:55.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "slug": "quintana-gastronomia",
+        "fantasyName": "Quintana Gastronomia",
+        "logo": "images/parceiros/1638465547481.blob",
+        "cover": "images/parceiros/1638465547787.jpg",
+        "discountAmount": 10,
+        "publishedVersion": 20,
+        "PartnerTags": []
+    },
+    {
+        "id": 134,
+        "slug": "abare-pizza-bar",
+        "fantasyName": "Abaré Pizza Bar",
+        "logo": "images/parceiros/1637861505237.blob",
+        "cover": "images/parceiros/1637861505528.jpg",
+        "discountAmount": 15,
+        "publishedVersion": 135,
+        "PartnerTags": []
+    },
+    {
+        "id": 135,
+        "slug": "academia-be-happy",
+        "fantasyName": "Academia Be Happy",
+        "logo": "parceiros/711579723948831.png",
+        "cover": "parceiros/711579723948831.png",
+        "discountAmount": 20,
+        "publishedVersion": 34,
+        "PartnerTags": [
+            {
+                "id": 3610,
+                "tagsId": 1,
+                "partnerId": 135,
+                "createdBy": 10,
+                "createdAt": "2020-10-21T13:29:16.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-10-21T13:29:16.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "slug": "aldeia",
+        "fantasyName": "Aldeia",
+        "logo": "parceiros/211579630987331.png",
+        "cover": "parceiros/211579630987331.png",
+        "discountAmount": 50,
+        "publishedVersion": 42,
+        "PartnerTags": [
+            {
+                "id": 4581,
+                "tagsId": 9,
+                "partnerId": 136,
+                "createdBy": 311,
+                "createdAt": "2021-04-09T17:00:25.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-04-09T17:00:25.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "slug": "alright-brewing-co",
+        "fantasyName": "Alright Brewing Co.",
+        "logo": "parceiros/311579802354988.jpeg",
+        "cover": "parceiros/311579802354988.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 28,
+        "PartnerTags": [
+            {
+                "id": 4588,
+                "tagsId": 3,
+                "partnerId": 137,
+                "createdBy": 311,
+                "createdAt": "2021-04-09T18:10:25.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-04-09T18:10:25.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "slug": "azul-viagens-curitiba",
+        "fantasyName": "Azul Viagens Curitiba",
+        "logo": "parceiros/411579719395499.png",
+        "cover": "parceiros/411579719395499.png",
+        "discountAmount": 12,
+        "publishedVersion": 17,
+        "PartnerTags": [
+            {
+                "id": 4855,
+                "tagsId": 16,
+                "partnerId": 139,
+                "createdBy": 311,
+                "createdAt": "2021-11-01T19:25:24.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-01T19:25:24.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "slug": "balaroti",
+        "fantasyName": "Balaroti - Guatupê",
+        "logo": "parceiros/711579806440984.png",
+        "cover": "parceiros/711579806440984.png",
+        "discountAmount": 10,
+        "publishedVersion": 135,
+        "PartnerTags": [
+            {
+                "id": 4200,
+                "tagsId": 20,
+                "partnerId": 140,
+                "createdBy": 10,
+                "createdAt": "2021-03-01T22:08:38.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-01T22:08:38.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4201,
+                "tagsId": 34,
+                "partnerId": 140,
+                "createdBy": 10,
+                "createdAt": "2021-03-01T22:08:38.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-01T22:08:38.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "slug": "cafe-da-esquina",
+        "fantasyName": "Café da Esquina",
+        "logo": "parceiros/311579879743939.jpeg",
+        "cover": "parceiros/311579879743939.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 38,
+        "PartnerTags": [
+            {
+                "id": 3638,
+                "tagsId": 5,
+                "partnerId": 141,
+                "createdBy": 10,
+                "createdAt": "2020-10-22T12:48:47.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-10-22T12:48:47.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "slug": "cafe-zurich",
+        "fantasyName": "Café Zurich",
+        "logo": "parceiros/611579886170948.jpeg",
+        "cover": "parceiros/611579886170948.jpeg",
+        "discountAmount": 15,
+        "publishedVersion": 16,
+        "PartnerTags": [
+            {
+                "id": 4368,
+                "tagsId": 5,
+                "partnerId": 142,
+                "createdBy": 10,
+                "createdAt": "2021-03-05T20:27:40.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-05T20:27:40.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "slug": "callfarma",
+        "fantasyName": "CallFarma",
+        "logo": "images/parceiros/1584641561726.png",
+        "cover": "images/parceiros/1584641561726.png",
+        "discountAmount": 45,
+        "publishedVersion": 253,
+        "PartnerTags": [
+            {
+                "id": 4202,
+                "tagsId": 12,
+                "partnerId": 145,
+                "createdBy": 10,
+                "createdAt": "2021-03-01T22:09:34.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-01T22:09:34.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "slug": "companhia-athletica",
+        "fantasyName": "Companhia Athletica",
+        "logo": "parceiros/111579630720859.png",
+        "cover": "parceiros/111579630720859.png",
+        "discountAmount": 30,
+        "publishedVersion": 14,
+        "PartnerTags": [
+            {
+                "id": 5011,
+                "tagsId": 1,
+                "partnerId": 146,
+                "createdBy": 311,
+                "createdAt": "2021-12-21T11:23:27.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-21T11:23:27.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "slug": "escola-conquer",
+        "fantasyName": "Escola Conquer",
+        "logo": "images/parceiros/1596139327156.png",
+        "cover": "images/parceiros/1596139327156.png",
+        "discountAmount": 10,
+        "publishedVersion": 33,
+        "PartnerTags": [
+            {
+                "id": 4675,
+                "tagsId": 9,
+                "partnerId": 147,
+                "createdBy": 311,
+                "createdAt": "2021-05-19T13:47:13.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-05-19T13:47:13.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4676,
+                "tagsId": 37,
+                "partnerId": 147,
+                "createdBy": 311,
+                "createdAt": "2021-05-19T13:47:13.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-05-19T13:47:13.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "slug": "damarate-confeitaria",
+        "fantasyName": "Damarate Confeitaria",
+        "logo": "images/parceiros/1638298264754.blob",
+        "cover": "images/parceiros/1638298265184.jpg",
+        "discountAmount": 10,
+        "publishedVersion": 33,
+        "PartnerTags": []
+    },
+    {
+        "id": 153,
+        "slug": "emporio-kaminski",
+        "fantasyName": "Empório Kaminski",
+        "logo": "images/parceiros/1638478576238.blob",
+        "cover": "images/parceiros/1638478576725.jpg",
+        "discountAmount": 10,
+        "publishedVersion": 18,
+        "PartnerTags": []
+    },
+    {
+        "id": 154,
+        "slug": "emporio-muf-s-cafe",
+        "fantasyName": "Empório Muf's Café",
+        "logo": "images/parceiros/1638297375341.blob",
+        "cover": "images/parceiros/1638297375768.jpg",
+        "discountAmount": 10,
+        "publishedVersion": 23,
+        "PartnerTags": [
+            {
+                "id": 4946,
+                "tagsId": 5,
+                "partnerId": 154,
+                "createdBy": 311,
+                "createdAt": "2021-11-30T18:36:16.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-30T18:36:16.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4947,
+                "tagsId": 2,
+                "partnerId": 154,
+                "createdBy": 311,
+                "createdAt": "2021-11-30T18:36:16.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-30T18:36:16.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "slug": "emporio-grano-pane-pasta-e-vino",
+        "fantasyName": "Empório Grano - Pane, pasta e vino",
+        "logo": "parceiros/111579115210764.jpeg",
+        "cover": "parceiros/111579115210764.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 12,
+        "PartnerTags": [
+            {
+                "id": 3545,
+                "tagsId": 2,
+                "partnerId": 155,
+                "createdBy": 10,
+                "createdAt": "2020-09-23T19:47:21.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-09-23T19:47:21.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 3546,
+                "tagsId": 21,
+                "partnerId": 155,
+                "createdBy": 10,
+                "createdAt": "2020-09-23T19:47:21.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-09-23T19:47:21.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "slug": "mustang-sally",
+        "fantasyName": "Mustang Sally",
+        "logo": "images/parceiros/1598470673966.png",
+        "cover": "images/parceiros/1615384773552.png",
+        "discountAmount": 20,
+        "publishedVersion": 31,
+        "PartnerTags": [
+            {
+                "id": 4887,
+                "tagsId": 26,
+                "partnerId": 157,
+                "createdBy": 311,
+                "createdAt": "2021-11-23T13:38:29.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-23T13:38:29.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4888,
+                "tagsId": 15,
+                "partnerId": 157,
+                "createdBy": 311,
+                "createdAt": "2021-11-23T13:38:29.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-23T13:38:29.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4889,
+                "tagsId": 17,
+                "partnerId": 157,
+                "createdBy": 311,
+                "createdAt": "2021-11-23T13:38:30.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-23T13:38:30.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "slug": "ox-room-steakhouse",
+        "fantasyName": "OX Room Steakhouse",
+        "logo": "images/parceiros/1638535025939.blob",
+        "cover": "images/parceiros/1638535026418.jpg",
+        "discountAmount": 15,
+        "publishedVersion": 19,
+        "PartnerTags": []
+    },
+    {
+        "id": 164,
+        "slug": "pobre-juan",
+        "fantasyName": "Pobre Juan",
+        "logo": "images/parceiros/1638465709897.blob",
+        "cover": "images/parceiros/1638465710184.jpg",
+        "discountAmount": 15,
+        "publishedVersion": 13,
+        "PartnerTags": [
+            {
+                "id": 4959,
+                "tagsId": 26,
+                "partnerId": 164,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:21:50.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:21:50.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "slug": "pata-negra",
+        "fantasyName": "Pata Negra",
+        "logo": "parceiros/611579902396307.png",
+        "cover": "parceiros/611579902396307.png",
+        "discountAmount": 10,
+        "publishedVersion": 15,
+        "PartnerTags": [
+            {
+                "id": 4722,
+                "tagsId": 3,
+                "partnerId": 166,
+                "createdBy": 311,
+                "createdAt": "2021-08-06T20:09:14.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-08-06T20:09:14.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4723,
+                "tagsId": 26,
+                "partnerId": 166,
+                "createdBy": 311,
+                "createdAt": "2021-08-06T20:09:14.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-08-06T20:09:14.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "slug": "lotus-sunset",
+        "fantasyName": "Lotus Sunset",
+        "logo": "images/parceiros/1637329410859.blob",
+        "cover": "images/parceiros/1637329411271.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 11,
+        "PartnerTags": []
+    },
+    {
+        "id": 169,
+        "slug": "harve-academy",
+        "fantasyName": "Harve Academy",
+        "logo": "parceiros/111580932161782.png",
+        "cover": "parceiros/111580932161782.png",
+        "discountAmount": 20,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 1571,
+                "tagsId": 9,
+                "partnerId": 169,
+                "createdBy": 78,
+                "createdAt": "2020-02-05T19:49:25.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-02-05T19:49:25.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "slug": "hog-smash-burger",
+        "fantasyName": "HOG Smash Burger",
+        "logo": "images/parceiros/1639075236439.blob",
+        "cover": "images/parceiros/1639075236687.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 10,
+        "PartnerTags": [
+            {
+                "id": 5004,
+                "tagsId": 26,
+                "partnerId": 170,
+                "createdBy": 311,
+                "createdAt": "2021-12-09T18:40:37.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-09T18:40:37.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "slug": "cookie-stories",
+        "fantasyName": "Cookie Stories",
+        "logo": "parceiros/211579889441385.png",
+        "cover": "parceiros/211579889441385.png",
+        "discountAmount": 15,
+        "publishedVersion": 23,
+        "PartnerTags": [
+            {
+                "id": 4602,
+                "tagsId": 5,
+                "partnerId": 171,
+                "createdBy": 10,
+                "createdAt": "2021-04-22T17:47:27.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-04-22T17:47:27.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4603,
+                "tagsId": 8,
+                "partnerId": 171,
+                "createdBy": 10,
+                "createdAt": "2021-04-22T17:47:27.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-04-22T17:47:27.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "slug": "dom-bosco-unidade-batel",
+        "fantasyName": "Dom Bosco - Unidade Batel",
+        "logo": "parceiros/411579631069862.png",
+        "cover": "parceiros/411579631069862.png",
+        "discountAmount": 20,
+        "publishedVersion": 14,
+        "PartnerTags": [
+            {
+                "id": 3541,
+                "tagsId": 9,
+                "partnerId": 173,
+                "createdBy": 10,
+                "createdAt": "2020-09-23T19:08:31.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-09-23T19:08:31.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "slug": "domino-s-pizza",
+        "fantasyName": "Domino's Pizza",
+        "logo": "images/parceiros/1637862100598.blob",
+        "cover": "images/parceiros/1637862100897.jpg",
+        "discountAmount": 30,
+        "publishedVersion": 36,
+        "PartnerTags": [
+            {
+                "id": 4929,
+                "tagsId": 24,
+                "partnerId": 174,
+                "createdBy": 311,
+                "createdAt": "2021-11-25T17:41:43.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-11-25T17:41:43.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "slug": "qceviche---gastronomia-peruana",
+        "fantasyName": "QCeviche! - Gastronomia Peruana",
+        "logo": "images/parceiros/1598471512555.png",
+        "cover": "images/parceiros/1598471512555.png",
+        "discountAmount": 20,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 3458,
+                "tagsId": 26,
+                "partnerId": 176,
+                "createdBy": 78,
+                "createdAt": "2020-08-26T19:51:53.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-08-26T19:51:53.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "slug": "hard-rock-cafe",
+        "fantasyName": "Hard Rock Cafe",
+        "logo": "images/parceiros/1638467382717.blob",
+        "cover": "images/parceiros/1638467383149.jpg",
+        "discountAmount": 10,
+        "publishedVersion": 16,
+        "PartnerTags": [
+            {
+                "id": 4971,
+                "tagsId": 26,
+                "partnerId": 177,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:49:43.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:49:43.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "slug": "bistrozinho-comidinhas-divertidas",
+        "fantasyName": "Bistrozinho Comidinhas Divertidas",
+        "logo": "images/parceiros/1638478811428.blob",
+        "cover": "images/parceiros/1638478811935.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 14,
+        "PartnerTags": []
+    },
+    {
+        "id": 183,
+        "slug": "casa-da-bruxa",
+        "fantasyName": "Casa da Bruxa",
+        "logo": "images/parceiros/1583348725089.png",
+        "cover": "images/parceiros/1583348725089.png",
+        "discountAmount": 20,
+        "publishedVersion": 38,
+        "PartnerTags": [
+            {
+                "id": 4799,
+                "tagsId": 5,
+                "partnerId": 183,
+                "createdBy": 311,
+                "createdAt": "2021-09-13T18:35:12.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-09-13T18:35:12.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4800,
+                "tagsId": 8,
+                "partnerId": 183,
+                "createdBy": 311,
+                "createdAt": "2021-09-13T18:35:12.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-09-13T18:35:12.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "slug": "figurate-focacceria-italiana",
+        "fantasyName": "Figurate Focacceria Italiana",
+        "logo": "images/parceiros/1638467599175.blob",
+        "cover": "images/parceiros/1638467599585.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 16,
+        "PartnerTags": [
+            {
+                "id": 4973,
+                "tagsId": 26,
+                "partnerId": 185,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:53:20.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:53:20.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "slug": "osteria-della-via---ca-dore",
+        "fantasyName": "Osteria Della Via - Ca'dore",
+        "logo": "parceiros/311579903312571.png",
+        "cover": "parceiros/311579903312571.png",
+        "discountAmount": 20,
+        "publishedVersion": 13,
+        "PartnerTags": [
+            {
+                "id": 4361,
+                "tagsId": 26,
+                "partnerId": 186,
+                "createdBy": 311,
+                "createdAt": "2021-03-05T16:16:14.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-05T16:16:14.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "slug": "baraquias",
+        "fantasyName": "Baraquias",
+        "logo": "images/parceiros/1638478951713.blob",
+        "cover": "images/parceiros/1638478952128.jpg",
+        "discountAmount": 15,
+        "publishedVersion": 29,
+        "PartnerTags": [
+            {
+                "id": 4974,
+                "tagsId": 26,
+                "partnerId": 187,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T21:02:32.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T21:02:32.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4975,
+                "tagsId": 17,
+                "partnerId": 187,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T21:02:32.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T21:02:32.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "slug": "farmacia-unipreco",
+        "fantasyName": "Farmácia Unipreço",
+        "logo": "images/parceiros/1626353969178.blob",
+        "cover": "images/parceiros/1626353969781.jpeg",
+        "discountAmount": 45,
+        "publishedVersion": 246,
+        "PartnerTags": []
+    },
+    {
+        "id": 189,
+        "slug": "forum-academia",
+        "fantasyName": "Forum Academia",
+        "logo": "parceiros/611579542576540.png",
+        "cover": "parceiros/611579542576540.png",
+        "discountAmount": 15,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 460,
+                "tagsId": 1,
+                "partnerId": 189,
+                "createdBy": 13,
+                "createdAt": "2020-01-22T19:04:54.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-22T19:04:54.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "slug": "granoliva",
+        "fantasyName": "Granoliva",
+        "logo": "images/parceiros/1638467431896.blob",
+        "cover": "images/parceiros/1638467432430.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 10,
+        "PartnerTags": [
+            {
+                "id": 4972,
+                "tagsId": 26,
+                "partnerId": 190,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:50:33.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:50:33.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "slug": "green-dog-centro",
+        "fantasyName": "Green Dog - Centro",
+        "logo": "parceiros/611579543475937.jpeg",
+        "cover": "parceiros/611579543475937.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 17,
+        "PartnerTags": []
+    },
+    {
+        "id": 195,
+        "slug": "l-entrecote-de-paris",
+        "fantasyName": "L’Entrecôte de Paris",
+        "logo": "images/parceiros/1638465750089.blob",
+        "cover": "images/parceiros/1638465750310.jpg",
+        "discountAmount": 10,
+        "publishedVersion": 12,
+        "PartnerTags": [
+            {
+                "id": 4960,
+                "tagsId": 26,
+                "partnerId": 195,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:22:30.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:22:30.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "slug": "la-mafia-trattoria",
+        "fantasyName": "La Mafia Trattoria",
+        "logo": "images/parceiros/1638465343712.blob",
+        "cover": "images/parceiros/1638465344192.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 27,
+        "PartnerTags": []
+    },
+    {
+        "id": 201,
+        "slug": "le-rechaud",
+        "fantasyName": "Le Réchaud",
+        "logo": "images/parceiros/1598471042640.png",
+        "cover": "images/parceiros/1598471042640.png",
+        "discountAmount": 20,
+        "publishedVersion": 8,
+        "PartnerTags": [
+            {
+                "id": 3597,
+                "tagsId": 26,
+                "partnerId": 201,
+                "createdBy": 10,
+                "createdAt": "2020-10-07T16:30:19.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-10-07T16:30:19.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "slug": "madaleo-panificadora-e-confeitaria",
+        "fantasyName": "Madaleo Panificadora e Confeitaria",
+        "logo": "parceiros/411579795523665.jpeg",
+        "cover": "parceiros/411579795523665.jpeg",
+        "discountAmount": 15,
+        "publishedVersion": 5,
+        "PartnerTags": [
+            {
+                "id": 521,
+                "tagsId": 21,
+                "partnerId": 203,
+                "createdBy": 13,
+                "createdAt": "2020-01-23T16:50:09.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T16:50:09.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "slug": "magazine-luiza",
+        "fantasyName": "Magazine Luiza",
+        "logo": "parceiros/411579799377682.png",
+        "cover": "parceiros/411579799377682.png",
+        "discountAmount": 5,
+        "publishedVersion": 16,
+        "PartnerTags": [
+            {
+                "id": 4276,
+                "tagsId": 7,
+                "partnerId": 206,
+                "createdBy": 10,
+                "createdAt": "2021-03-02T15:24:43.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-02T15:24:43.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "slug": "nespresso",
+        "fantasyName": "Nespresso",
+        "logo": "parceiros/011579808904867.png",
+        "cover": "parceiros/011579808904867.png",
+        "discountAmount": 20,
+        "publishedVersion": 16,
+        "PartnerTags": [
+            {
+                "id": 4197,
+                "tagsId": 7,
+                "partnerId": 208,
+                "createdBy": 10,
+                "createdAt": "2021-03-01T22:07:33.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-01T22:07:33.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4198,
+                "tagsId": 20,
+                "partnerId": 208,
+                "createdBy": 10,
+                "createdAt": "2021-03-01T22:07:33.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-01T22:07:33.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 4199,
+                "tagsId": 5,
+                "partnerId": 208,
+                "createdBy": 10,
+                "createdAt": "2021-03-01T22:07:33.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-01T22:07:33.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "slug": "nuu-nikkei-cuisine",
+        "fantasyName": "Nuu Nikkei Cuisine",
+        "logo": "images/parceiros/1638466325418.blob",
+        "cover": "images/parceiros/1638466325685.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 19,
+        "PartnerTags": [
+            {
+                "id": 4963,
+                "tagsId": 26,
+                "partnerId": 209,
+                "createdBy": 311,
+                "createdAt": "2021-12-02T17:32:06.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-02T17:32:06.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "slug": "terra-madre",
+        "fantasyName": "Terra Madre",
+        "logo": "images/parceiros/1638535342488.blob",
+        "cover": "images/parceiros/1638535342783.jpg",
+        "discountAmount": 15,
+        "publishedVersion": 19,
+        "PartnerTags": []
+    },
+    {
+        "id": 212,
+        "slug": "cantina-e-restaurante-mamma-carmella",
+        "fantasyName": "Cantina e Restaurante Mamma Carmella",
+        "logo": "parceiros/811579880467465.jpeg",
+        "cover": "parceiros/811579880467465.jpeg",
+        "discountAmount": 15,
+        "publishedVersion": 8,
+        "PartnerTags": [
+            {
+                "id": 2564,
+                "tagsId": 26,
+                "partnerId": 212,
+                "createdBy": 10,
+                "createdAt": "2020-04-24T21:30:03.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-04-24T21:30:03.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "slug": "thai-restaurante-thailandes",
+        "fantasyName": "Thai Restaurante Thailandês",
+        "logo": "images/parceiros/1638535376247.blob",
+        "cover": "images/parceiros/1638535376530.jpg",
+        "discountAmount": 30,
+        "publishedVersion": 34,
+        "PartnerTags": [
+            {
+                "id": 4982,
+                "tagsId": 26,
+                "partnerId": 213,
+                "createdBy": 311,
+                "createdAt": "2021-12-03T12:42:57.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-03T12:42:57.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "slug": "casa-varela",
+        "fantasyName": "Casa Varela",
+        "logo": "images/parceiros/1639139099546.blob",
+        "cover": "images/parceiros/1639139100022.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 9,
+        "PartnerTags": [
+            {
+                "id": 5006,
+                "tagsId": 26,
+                "partnerId": 215,
+                "createdBy": 311,
+                "createdAt": "2021-12-10T12:25:00.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-12-10T12:25:00.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "slug": "opera-arte-espaco-gastronomico",
+        "fantasyName": "Ópera Arte - Espaço Gastronômico",
+        "logo": "images/parceiros/1639139025568.blob",
+        "cover": "images/parceiros/1639139025836.jpg",
+        "discountAmount": 20,
+        "publishedVersion": 7,
+        "PartnerTags": []
+    },
+    {
+        "id": 219,
+        "slug": "il-barbuto-1",
+        "fantasyName": "Il Barbuto",
+        "logo": "images/parceiros/1638478863874.blob",
+        "cover": "images/parceiros/1638478864180.jpg",
+        "discountAmount": 15,
+        "publishedVersion": 14,
+        "PartnerTags": []
+    },
+    {
+        "id": 221,
+        "slug": "universidade-positivo",
+        "fantasyName": "Universidade Positivo",
+        "logo": "parceiros/511579804850109.jpeg",
+        "cover": "parceiros/511579804850109.jpeg",
+        "discountAmount": 20,
+        "publishedVersion": 12,
+        "PartnerTags": [
+            {
+                "id": 4275,
+                "tagsId": 9,
+                "partnerId": 221,
+                "createdBy": 10,
+                "createdAt": "2021-03-02T15:04:26.000Z",
+                "deletedAt": null,
+                "updatedAt": "2021-03-02T15:04:26.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "slug": "uniasselvi-centro",
+        "fantasyName": "Uniasselvi Centro",
+        "logo": "images/parceiros/1638301839287.blob",
+        "cover": "images/parceiros/1638301839677.jpg",
+        "discountAmount": 35,
+        "publishedVersion": 15,
+        "PartnerTags": []
+    },
+    {
+        "id": 226,
+        "slug": "unifacear-campus-bacacheri",
+        "fantasyName": "Unifacear — Campus Bacacheri",
+        "logo": "parceiros/411579810700312.png",
+        "cover": "parceiros/411579810700312.png",
+        "discountAmount": 20,
+        "publishedVersion": 11,
+        "PartnerTags": [
+            {
+                "id": 621,
+                "tagsId": 9,
+                "partnerId": 226,
+                "createdBy": 78,
+                "createdAt": "2020-01-23T20:18:21.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-01-23T20:18:21.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "slug": "grupo-vino",
+        "fantasyName": "GRUPO VINO",
+        "logo": "images/parceiros/1584642819099.png",
+        "cover": "images/parceiros/1584642819099.png",
+        "discountAmount": 15,
+        "publishedVersion": 20,
+        "PartnerTags": [
+            {
+                "id": 2995,
+                "tagsId": 3,
+                "partnerId": 228,
+                "createdBy": 10,
+                "createdAt": "2020-07-20T21:10:20.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-07-20T21:10:20.000Z",
+                "deletedBy": null,
+                "situation": 1
+            },
+            {
+                "id": 2996,
+                "tagsId": 26,
+                "partnerId": 228,
+                "createdBy": 10,
+                "createdAt": "2020-07-20T21:10:20.000Z",
+                "deletedAt": null,
+                "updatedAt": "2020-07-20T21:10:20.000Z",
+                "deletedBy": null,
+                "situation": 1
+            }
+        ]
+    }
+]
