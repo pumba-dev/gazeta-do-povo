@@ -25,6 +25,18 @@ class LogoText extends HTMLElement {
             width: max-content;
             height: max-content;
           }
+
+          @media (min-width: 769px) {
+              .logo-text {
+                font-size: 1.7rem;
+              }
+            }
+
+          @media (min-width: 1024px) {
+            .logo-text {
+              font-size: 2.2rem;
+            }
+          }
         `
     return style
   }

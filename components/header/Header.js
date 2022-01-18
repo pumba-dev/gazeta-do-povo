@@ -1,5 +1,6 @@
 import '../shared/Logo.js'
 import './LogoText.js'
+import './HeaderNav.js'
 
 class Header extends HTMLElement {
     constructor() {
@@ -12,11 +13,20 @@ class Header extends HTMLElement {
         const $header = document.createElement('div')
         $header.classList.add('header')
 
-        const $logo = document.createElement('logo-icon')
+        const $headerLogo = document.createElement('div')
+        $headerLogo.classList.add('header-logo')
+
+        const $logoIcon = document.createElement('logo-icon')
+
         const $logoText = document.createElement('logo-text')
 
-        $header.appendChild($logo)
-        $header.appendChild($logoText)
+        const $headerNav = document.createElement('header-nav')
+        $headerNav.classList.add('header-nav')
+
+        $headerLogo.appendChild($logoIcon)
+        $headerLogo.appendChild($logoText)
+        $header.appendChild($headerLogo)
+        $header.appendChild($headerNav)
 
         shadow.appendChild($header)
         shadow.appendChild(this.styles())
@@ -27,10 +37,41 @@ class Header extends HTMLElement {
         style.textContent = /*css*/`
             .header {
                 display: flex;
-                gap: 1rem;
+                justify-content: space-between;
                 height: max-content;
                 align-items: center;
                 padding: 1rem 2rem;
+            }
+
+            .header-logo {
+                display: flex;
+                gap: 1rem;
+            }
+
+            @media (max-width: 768px) {
+                .header-nav {
+                    display: none
+                }
+            }
+
+            @media (min-width: 769px) {
+                .header {
+                    padding: 2rem 4rem;
+                }
+
+                .header-logo {
+                gap: 1.25rem;
+                }
+            }
+
+            @media (min-width: 1024px) {
+                .header {
+                    padding: 2rem 8rem;
+                }
+
+                .header-logo {
+                gap: 1.5rem;
+                }                
             }
         `
         return style

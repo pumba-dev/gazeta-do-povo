@@ -32,6 +32,21 @@ class Logo extends HTMLElement {
                 width: 100%;
                 height: 100%;
             }
+
+            @media (min-width: 769px) {
+                .logo-box {
+                width: 4rem;
+                height: 4rem;
+                }
+            }
+
+            @media (min-width: 1024px) {
+                .logo-box {
+                width: 5rem;
+                height: 5rem;
+                }
+            }
+
         `
         return style
     }
