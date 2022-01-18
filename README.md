@@ -7,7 +7,11 @@
 
 <center> <h2>☕ Em Desenvolvimento</h2> </center>
 
+<img src="./assets/prototype.png" alt="Imagem do Protótipo no Figma"/>
+
 > Página Web Vanilla Desenvolvida como Teste Front-End.
+
+<br>
 
 ### Ajustes e melhorias
 
@@ -15,7 +19,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Configurar Ambiente de Desenvolvimento.
 - [x] Levantar Requisitos e Assets do Projeto.
-- [ ] Modelar Protótipo no Figma.
+- [x] Modelar Protótipo no Figma.
 
 
 ## 📝 Pré-requisitos

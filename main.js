@@ -1,5 +1,6 @@
-import './style.css'
-import './colors.css'
+import './styles/global.css'
+import './styles/style.css'
+import './styles/colors.css'
 
 const $root = document.querySelector('#app')
 $root.insertAdjacentHTML("beforeend", `
