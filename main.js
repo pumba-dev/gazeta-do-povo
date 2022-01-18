@@ -1,7 +1,9 @@
+// CSS IMPORT
 import './styles/reset.css'
 import './styles/style.css'
 import './styles/colors.css'
-import './components/shared/logo.js'
+// COMPONENTS IMPORT
+import './components/header/Header.js'
 
 class App extends HTMLElement {
   constructor() {
@@ -10,19 +12,22 @@ class App extends HTMLElement {
   }
 
   build() {
-    const shadow = this.attachShadow({ mode: 'open' })
+    this.classList.add("root-app")
+    const $shadow = this.attachShadow({ mode: 'open' })
 
-    const $logo = document.createElement('logo-cp')
+    const $header = document.createElement('header-section')
 
-    shadow.appendChild($logo)
-    shadow.appendChild(this.styles())
+    $shadow.appendChild($header)
+    $shadow.appendChild(this.styles())
   }
 
   styles() {
     const style = document.createElement('style')
-    style.textContent = `
+    style.textContent = /*css*/`
       .root-app {
-        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 3.5rem;
       }
     `
     return style

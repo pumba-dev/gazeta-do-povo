@@ -1,4 +1,4 @@
-#root-app {
+.root-app {
   font: 400 1rem "Montserrat", sans-serif;
   color: var(--primaryColor);
   box-sizing: border-box;

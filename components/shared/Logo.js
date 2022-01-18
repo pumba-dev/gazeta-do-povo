@@ -11,25 +11,30 @@ class Logo extends HTMLElement {
         $logoBox.classList.add('logo-box')
 
         const $logoIcon = document.createElement('img')
+        $logoIcon.classList.add('logo-icon')
         $logoIcon.src = './assets/gazeta-logo.svg'
 
         $logoBox.appendChild($logoIcon)
 
         shadow.appendChild($logoBox)
-
         shadow.appendChild(this.styles())
     }
 
     styles() {
         const style = document.createElement('style')
-        style.textContent = `
+        style.textContent = /*css*/`
             .logo-box {
-                width: 38px;
-                height: 34px;
+                width: 50px;
+                height: 50px;
+            }
+
+            .logo-icon {
+                width: 100%;
+                height: 100%;
             }
         `
         return style
     }
 }
 
-customElements.define('logo-cp', Logo)
+customElements.define('logo-icon', Logo)
