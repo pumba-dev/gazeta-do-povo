@@ -20,7 +20,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Configurar Ambiente de Desenvolvimento.
 - [x] Levantar Requisitos e Assets do Projeto.
 - [x] Modelar Protótipo no Figma.
-- [ ] Implentar Código Completo.
+- [x] Implementar Cabeçalho
+- [x] Implementar Campo de Busca
+- [ ] Implementar Lista de Estabelecimentos
+- [ ] Implementar Paginação
+- [ ] Implementar Busca
 
 ## 📝 Pré-requisitos
 
