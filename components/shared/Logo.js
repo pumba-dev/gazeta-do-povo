@@ -24,8 +24,8 @@ class Logo extends HTMLElement {
         const style = document.createElement('style')
         style.textContent = /*css*/`
             .logo-box {
-                width: 50px;
-                height: 50px;
+                width: 3rem;
+                height: 3rem;
             }
 
             .logo-icon {
