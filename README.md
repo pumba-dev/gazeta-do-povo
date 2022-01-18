@@ -41,6 +41,15 @@ Requisitos definidos pela empresa:
 - Listar Estabelecimentos em Ordem Alfabética (*fantasyName*)
 - Layout Responsivo
 
+## ⚙️ Instalando o Projeto
+Siga estas etapas:
+
+```
+npm install
+
+npm run dev
+```
+
 ## 💻 Feito Com:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
