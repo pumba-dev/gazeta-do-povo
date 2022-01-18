@@ -53,6 +53,42 @@ class Search extends HTMLElement {
                 display: flex;
                 align-items: center;
             }
+
+            @media ( min-width: 375px) {
+                .search-title {
+                    font-size: 1.1rem;
+                }
+            }
+
+            @media (min-width: 769px) {
+                .search-title {
+                    font-size: 1.5rem;
+                }
+
+                .search-input {
+                    width: 55%;
+                }
+            }
+
+            @media (min-width: 1440px) {
+                .search-title {
+                    font-size: 1.75rem;
+                }   
+                
+                .search-input {
+                    width: 45%;
+                }
+            }
+
+            @media (min-width: 2560px) {
+                .search-title {
+                    font-size: 2rem;
+                }   
+                
+                .search-input {
+                    width: 40%;
+                }
+            }
         `
         return style
     }
