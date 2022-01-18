@@ -1,8 +1,6 @@
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font: 400 1rem "Montserrat", sans-serif;
+  color: var(--primaryColor);
+  box-sizing: border-box;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }

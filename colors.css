@@ -1,0 +1,13 @@
+:root {
+    --primaryLightColor: #554cfb;
+    --primaryColor: #30287b;
+    --primaryShadeColor: #262061;
+    --primaryMediumColor: #2c2470;
+    --primaryContrast: #fff;
+    --secondaryColor: #ffc133;
+    --secondaryContrast: #30287b;
+    --mutedColor: #f2f2f2;
+    --mutedContrast: #30287b;
+    --redColor: #f51c1c;
+    --orangeColor: #f93e2d;
+}
