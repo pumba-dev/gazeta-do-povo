@@ -58,6 +58,8 @@ class CardList extends HTMLElement {
                 gap: 1rem;
                 width: 100%;
                 height: max-content;
+                margin-left: auto;
+                margin-right: auto;
                 align-items: center;
                 justify-items: center;
                 box-sizing: border-box;
@@ -69,6 +71,7 @@ class CardList extends HTMLElement {
                     gap: 0rem;
                     grid-template-columns: repeat(2, 1fr);
                     grid-row-gap: 1.5rem;
+                    width: 90%
                 }
             }
 
@@ -79,10 +82,23 @@ class CardList extends HTMLElement {
                     grid-template-columns: repeat(3, 1fr);
                     grid-row-gap: 1.5rem;
                     padding: 0rem 2rem;
+                    width: 100%;
+                    
                 }
             }
 
-            @media (min-width: 2000px) {
+            @media (min-width: 1440px) {
+                .card-list {
+                    margin-top: 4rem;
+                    display: grid;
+                    grid-template-columns: repeat(3, 1fr);
+                    grid-row-gap: 1.5rem;
+                    padding: 0rem 2rem;
+                    width: 90%;                    
+                }
+            }
+
+            @media (min-width: 2400px) {
                 .card-list {
                     margin-top: 5rem;
                     display: grid;
