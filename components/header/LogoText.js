@@ -1,23 +1,15 @@
-class LogoText extends HTMLElement {
-  constructor() {
-    super()
-    this.build()
-  }
+export default function LogoText() {
+  const $logoText = document.createElement('h1')
+  $logoText.classList.add('logo-text')
+  $logoText.textContent = "Teste de Front-End"
 
-  build() {
-    const shadow = this.attachShadow({ mode: 'open' })
+  $logoText.appendChild(styles())
+  return $logoText
+}
 
-    const $logoText = document.createElement('h1')
-    $logoText.classList.add('logo-text')
-    $logoText.textContent = "Teste de Front-End"
-
-    shadow.appendChild($logoText)
-    shadow.appendChild(this.styles())
-  }
-
-  styles() {
-    const style = document.createElement('style')
-    style.textContent = /*css*/`
+function styles() {
+  const style = document.createElement('style')
+  style.textContent = /*css*/`
           .logo-text {
             font-size: 1.2rem;
             font-weight: bold;
@@ -44,8 +36,5 @@ class LogoText extends HTMLElement {
             }
           }
         `
-    return style
-  }
+  return style
 }
-
-customElements.define('logo-text', LogoText)

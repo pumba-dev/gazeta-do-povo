@@ -1,6 +1,6 @@
 import '../shared/Logo.js'
-import './LogoText.js'
-import './HeaderNav.js'
+import createlogoText from './LogoText.js'
+import createHeaderNav from './HeaderNav.js'
 
 class Header extends HTMLElement {
     constructor() {
@@ -18,9 +18,9 @@ class Header extends HTMLElement {
 
         const $logoIcon = document.createElement('logo-icon')
 
-        const $logoText = document.createElement('logo-text')
+        const $logoText = createlogoText()
 
-        const $headerNav = document.createElement('header-nav')
+        const $headerNav = createHeaderNav()
         $headerNav.classList.add('header-nav')
 
         $headerLogo.appendChild($logoIcon)
