@@ -8,7 +8,7 @@ export default function CardData(card) {
 
     const $cardDiscount = document.createElement('div')
     $cardDiscount.classList.add('card-text')
-    $cardDiscount.textContent = `desconto: ${card.discount}%`
+    $cardDiscount.textContent = `Desconto: ${card.discount}%`
 
     $cardData.appendChild($cardTitle)
     $cardData.appendChild($cardDiscount)
@@ -29,9 +29,33 @@ function style() {
         }
 
         .card-text {
-            font-size: 0.65rem;
+            font-size: 0.7rem;
             font-weight: bold;
             color: var(--secondaryColor);
+        }
+
+        @media (min-width: 425px) {
+            .card-text {
+                font-size: 0.75rem;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .card-text {
+                font-size: 0.8rem;
+            }
+        }
+        
+        @media (min-width: 1024px) {
+            .card-text {
+                font-size: 0.9rem;
+            }
+        }
+
+        @media (min-width: 2560px) {
+            .card-text {
+                font-size: 1rem;
+            }
         }
     `;
     return style;

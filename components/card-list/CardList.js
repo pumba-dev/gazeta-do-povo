@@ -1,59 +1,49 @@
 import { establishmentsApi } from "../../plugins/establishmentsApi.js"
 import createCard from "./Card.js"
 
-class CardList extends HTMLElement {
-    constructor() {
-        super()
-        this.build()
-    }
 
-    build() {
-        const shadow = this.attachShadow({ mode: 'open' })
-        shadow.appendChild(this.createCards())
-        shadow.appendChild(this.styles())
-    }
-
-    createCards() {
-        const $cardList = document.createElement('section')
-        $cardList.classList.add('card-list')
-        this.getEstablishments().then(establishmentList => {
-            establishmentList.forEach(establishment => {
-                const $card = createCard(establishment)
-                $cardList.appendChild($card)
-            })
+export default function CardList() {
+    const $cardList = document.createElement('section')
+    $cardList.classList.add('card-list')
+    getEstablishments().then(establishmentList => {
+        establishmentList.forEach(establishment => {
+            const $card = createCard(establishment)
+            $cardList.appendChild($card)
         })
-        return $cardList
-    }
+    })
+    $cardList.appendChild(styles())
+    return $cardList
+}
 
-    async getEstablishments() {
-        let establishments = []
-        await establishmentsApi().then(response => {
-            establishments = Array.from({ length: 100 }).map((_, index) => {
-                return {
-                    id: index,
-                    imageSource: response.data[index].cover,
-                    title: response.data[index].fantasyName,
-                    discount: response.data[index].discountAmount
-                }
-            })
+async function getEstablishments() {
+    let establishments = []
+    await establishmentsApi().then(response => {
+        establishments = Array.from({ length: 100 }).map((_, index) => {
+            return {
+                id: index,
+                imageSource: response.data[index].cover,
+                title: response.data[index].fantasyName,
+                discount: response.data[index].discountAmount
+            }
         })
-        return establishments.sort((a, b) => {
-            if (a.title > b.title) {
-                return 1;
-            }
-            else if (a.title < b.title) {
-                return -1;
-            }
-            return 0;
-        });
-    }
+    })
+    return establishments.sort((a, b) => {
+        if (a.title > b.title) {
+            return 1;
+        }
+        else if (a.title < b.title) {
+            return -1;
+        }
+        return 0;
+    });
+}
 
-    styles() {
-        const style = document.createElement('style')
-        style.textContent = /*css*/`
+function styles() {
+    const style = document.createElement('style')
+    style.textContent = /*css*/`
             .card-list {
-                margin-top: 2rem;
                 display: flex;
+                margin-top: 2rem;
                 flex-direction: column;
                 gap: 1rem;
                 width: 100%;
@@ -75,7 +65,7 @@ class CardList extends HTMLElement {
                 }
             }
 
-            @media (min-width: 1024px) {
+            @media (min-width: 1150px) {
                 .card-list {
                     margin-top: 4rem;
                     display: grid;
@@ -108,8 +98,5 @@ class CardList extends HTMLElement {
                 }
             }
         `
-        return style
-    }
+    return style
 }
-
-customElements.define('card-list-section', CardList)

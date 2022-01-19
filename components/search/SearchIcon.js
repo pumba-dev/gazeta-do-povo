@@ -1,28 +1,21 @@
-class SearchIcon extends HTMLElement {
-    constructor() {
-        super()
-        this.build()
-    }
+export default function SearchIcon() {
+    const $iconBox = document.createElement('div')
+    $iconBox.classList.add('icon-box')
 
-    build() {
-        const shadow = this.attachShadow({ mode: 'open' })
+    const $searchIcon = document.createElement('img')
+    $searchIcon.classList.add('icon')
+    $searchIcon.setAttribute('src', './assets/search-icon.svg')
 
-        const $IconBox = document.createElement('div')
-        $IconBox.classList.add('icon-box')
+    $iconBox.appendChild($searchIcon)
 
-        const $SearchIcon = document.createElement('img')
-        $SearchIcon.classList.add('icon')
-        $SearchIcon.setAttribute('src', './assets/search-icon.svg')
+    $iconBox.appendChild(styles())
 
-        $IconBox.appendChild($SearchIcon)
+    return $iconBox
+}
 
-        shadow.appendChild($IconBox)
-        shadow.appendChild(this.styles())
-    }
-
-    styles() {
-        const style = document.createElement('style')
-        style.textContent = /*css*/`
+function styles() {
+    const style = document.createElement('style')
+    style.textContent = /*css*/`
             .icon-box {
                 width: 1.1rem;
                 height: 1.1rem;
@@ -33,8 +26,5 @@ class SearchIcon extends HTMLElement {
                 height: 100%;
             }
         `
-        return style
-    }
+    return style
 }
-
-customElements.define('search-icon', SearchIcon)

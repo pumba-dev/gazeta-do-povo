@@ -4,8 +4,7 @@ import './styles/style.css'
 import './styles/colors.css'
 // COMPONENTS IMPORT
 import './components/header/Header.js'
-import './components/search/Search.js'
-import './components/card-list/CardList.js'
+import './components/establishments/Establishments.js'
 
 class App extends HTMLElement {
   constructor() {
@@ -18,14 +17,11 @@ class App extends HTMLElement {
     const $shadow = this.attachShadow({ mode: 'open' })
 
     const $header = document.createElement('header-section')
-    const $search = document.createElement('search-section')
-    const $cardList = document.createElement('card-list-section')
+    const $establishments = document.createElement('establishments-section')
 
 
     $shadow.appendChild($header)
-    $shadow.appendChild($search)
-    $shadow.appendChild($cardList)
-
+    $shadow.appendChild($establishments)
     $shadow.appendChild(this.styles())
   }
 

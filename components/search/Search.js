@@ -1,35 +1,26 @@
-import './SearchInput.js'
+import createSearchInput from './SearchInput.js'
 
-class Search extends HTMLElement {
-    constructor() {
-        super()
-        this.build()
-    }
+export default function Search() {
+    const $search = document.createElement('div')
+    $search.classList.add('search')
 
-    build() {
-        const shadow = this.attachShadow({ mode: 'open' })
+    const $searchTitle = document.createElement('h1')
+    $searchTitle.classList.add('search-title')
+    $searchTitle.textContent = 'Lista de Estabelecimentos'
 
-        const $search = document.createElement('div')
-        $search.classList.add('search')
+    const $searchInput = createSearchInput()
+    $searchInput.classList.add('search-input')
 
-        const $searchTitle = document.createElement('h1')
-        $searchTitle.classList.add('search-title')
-        $searchTitle.textContent = 'Lista de Estabelecimentos'
+    $search.appendChild($searchTitle)
+    $search.appendChild($searchInput)
+    $search.appendChild(styles())
 
-        const $searchInput = document.createElement('search-input')
-        $searchInput.classList.add('search-input')
+    return $search
+}
 
-
-        $search.appendChild($searchTitle)
-        $search.appendChild($searchInput)
-
-        shadow.appendChild($search)
-        shadow.appendChild(this.styles())
-    }
-
-    styles() {
-        const style = document.createElement('style')
-        style.textContent = /*css*/`
+function styles() {
+    const style = document.createElement('style')
+    style.textContent = /*css*/`
             .search {
                 display: flex;
                 flex-direction: column;
@@ -45,13 +36,6 @@ class Search extends HTMLElement {
                 text-align: center;
                 width: max-content;
                 height: max-content;
-            }
-
-            .search-input {
-                position: relative;
-                width: 75%;
-                display: flex;
-                align-items: center;
             }
 
             @media ( min-width: 375px) {
@@ -90,8 +74,5 @@ class Search extends HTMLElement {
                 }
             }
         `
-        return style
-    }
+    return style
 }
-
-customElements.define('search-section', Search)

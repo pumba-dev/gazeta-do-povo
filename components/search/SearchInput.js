@@ -1,48 +1,52 @@
-import './SearchIcon.js'
+import createSearchIcon from './SearchIcon.js'
 
-class Searchinput extends HTMLElement {
-    constructor() {
-        super()
-        this.build()
-    }
+export default function SearchInput() {
 
-    build() {
-        const shadow = this.attachShadow({ mode: 'open' })
-        const $Input = document.createElement('input')
-        $Input.classList.add('input')
-        $Input.setAttribute('type', 'text')
-        $Input.setAttribute('placeholder', 'Buscar')
+    const $searchInput = document.createElement('div')
+    $searchInput.classList.add('search-input')
 
-        const $SearchIcon = document.createElement('search-icon')
-        $SearchIcon.classList.add('search-icon')
+    const $input = document.createElement('input')
+    $input.classList.add('input')
+    $input.setAttribute('type', 'text')
+    $input.setAttribute('placeholder', 'Buscar')
 
+    const $searchIcon = createSearchIcon()
+    $searchIcon.classList.add('search-icon')
 
-        shadow.appendChild($Input)
-        shadow.appendChild($SearchIcon)
-        shadow.appendChild(this.styles())
-    }
+    $searchInput.appendChild($input)
+    $searchInput.appendChild($searchIcon)
 
-    styles() {
-        const style = document.createElement('style')
-        style.textContent = /*css*/`
-            .input {
+    $searchInput.appendChild(styles())
+
+    return $searchInput
+}
+
+function styles() {
+    const style = document.createElement('style')
+    style.textContent = /*css*/`    
+            .search-input {
                 display: flex;
-                border: 1px solid var(--primaryShadeColor);
-                border-radius: 0.95rem;
+                flex-direction: row;
+                align-items: center;
+                position: relative;
+                width: 75%;
+            }
+    
+            .input {
                 width: 100%;
                 height: max-content;
+                border: 1px solid var(--primaryShadeColor);
+                border-radius: 0.95rem;
                 padding: 0.5rem 0.7rem;
                 background-color: var(--mutedColor);
+                font-size: 0.85rem;
             }
 
             .search-icon {
                 position: absolute;
-                right: 1rem;
+                right: 0.5rem;
             }
 
         `
-        return style
-    }
+    return style
 }
-
-customElements.define('search-input', Searchinput)
