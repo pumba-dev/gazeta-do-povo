@@ -5,6 +5,7 @@ import './styles/colors.css'
 // COMPONENTS IMPORT
 import './components/header/Header.js'
 import './components/search/Search.js'
+import './components/card-list/CardList.js'
 
 class App extends HTMLElement {
   constructor() {
@@ -18,9 +19,13 @@ class App extends HTMLElement {
 
     const $header = document.createElement('header-section')
     const $search = document.createElement('search-section')
+    const $cardList = document.createElement('card-list-section')
+
 
     $shadow.appendChild($header)
     $shadow.appendChild($search)
+    $shadow.appendChild($cardList)
+
     $shadow.appendChild(this.styles())
   }
 
