@@ -22,7 +22,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Modelar Protótipo no Figma.
 - [x] Implementar Cabeçalho
 - [x] Implementar Campo de Busca
-- [ ] Implementar Lista de Estabelecimentos
+- [x] Implementar Lista de Estabelecimentos
 - [ ] Implementar Paginação
 - [ ] Implementar Busca
 
