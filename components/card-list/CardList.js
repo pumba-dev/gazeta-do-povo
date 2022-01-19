@@ -1,5 +1,5 @@
-import "./Card.js"
 import { establishmentsApi } from "../../plugins/establishmentsApi.js"
+import createCard from "./Card.js"
 
 class CardList extends HTMLElement {
     constructor() {
@@ -9,14 +9,20 @@ class CardList extends HTMLElement {
 
     build() {
         const shadow = this.attachShadow({ mode: 'open' })
+        shadow.appendChild(this.createCards())
+        shadow.appendChild(this.styles())
+    }
 
+    createCards() {
         const $cardList = document.createElement('section')
         $cardList.classList.add('card-list')
-
-        this.cardListFill($cardList)
-
-        shadow.appendChild($cardList)
-        shadow.appendChild(this.styles())
+        this.getEstablishments().then(establishmentList => {
+            establishmentList.forEach(establishment => {
+                const $card = createCard(establishment)
+                $cardList.appendChild($card)
+            })
+        })
+        return $cardList
     }
 
     async getEstablishments() {
@@ -26,27 +32,13 @@ class CardList extends HTMLElement {
                 return {
                     id: index,
                     imageSource: response.data[index].cover,
-                    cardTitle: response.data[index].fantasyName,
-                    cardDiscount: response.data[index].discountAmount
+                    title: response.data[index].fantasyName,
+                    discount: response.data[index].discountAmount
                 }
             })
         })
         return establishments
     }
-
-    cardListFill($cardList) {
-        this.getEstablishments().then(establishments => {
-            establishments.forEach(establishment => {
-                const $cardBox = document.createElement('card-box')
-                $cardBox.setAttribute('card-id', establishment.id)
-                $cardBox.setAttribute('image-source', establishment.imageSource)
-                $cardBox.setAttribute('card-title', establishment.cardTitle)
-                $cardBox.setAttribute('card-discount', establishment.cardDiscount)
-                $cardList.appendChild($cardBox)
-            })
-        })
-    }
-
 
     styles() {
         const style = document.createElement('style')
