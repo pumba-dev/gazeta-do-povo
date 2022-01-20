@@ -9,7 +9,7 @@
 
 <img src="./assets/prototype.png" alt="Imagem do Protótipo no Figma"/>
 
-> Página Web Vanilla Desenvolvida como Teste Front-End.
+> https://gazeta-test.herokuapp.com/ - Página Web Vanilla Desenvolvida como Teste Front-End.
 
 <br>
 
