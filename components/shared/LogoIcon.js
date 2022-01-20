@@ -4,7 +4,7 @@ export default function LogoIcon() {
 
     const $logoIcon = document.createElement('img')
     $logoIcon.classList.add('logo-icon')
-    $logoIcon.src = 'https://gazeta-test.herokuapp.com/assets/gazeta-logo.svg'
+    $logoIcon.src = '/assets/gazeta-logo.svg'
 
     $logoBox.appendChild($logoIcon)
 
