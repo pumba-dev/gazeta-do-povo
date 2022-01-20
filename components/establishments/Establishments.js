@@ -46,7 +46,6 @@ class Establishments extends HTMLElement {
                 display: flex;
                 flex-direction: column;
                 align-items: center;
-                gap: 3.5rem;
                 width: 100%;
                 height: max-content;
             }
