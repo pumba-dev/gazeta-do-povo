@@ -16,7 +16,7 @@ export default function HeaderNav() {
 
     const $GitHubLink = document.createElement('a')
     $GitHubLink.classList.add('header-nav-list-link')
-    $GitHubLink.href = 'https://github.com/pumba-dev'
+    $GitHubLink.href = 'https://github.com/pumba-dev/gazeta-test'
     $GitHubLink.target = '_blank'
     $GitHubLink.textContent = 'GitHub'
 
