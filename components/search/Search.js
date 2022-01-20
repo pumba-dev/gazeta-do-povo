@@ -44,13 +44,13 @@ function styles() {
                 }
             }
 
-            @media (min-width: 769px) {
+            @media (min-width: 768px) {
                 .search-title {
-                    font-size: 1.5rem;
+                    font-size: 1.4rem;
                 }
 
                 .search-input {
-                    width: 55%;
+                    width: 50%;
                 }
             }
 
@@ -60,7 +60,7 @@ function styles() {
                 }   
                 
                 .search-input {
-                    width: 45%;
+                    width: 40%;
                 }
             }
 
@@ -70,7 +70,7 @@ function styles() {
                 }   
                 
                 .search-input {
-                    width: 40%;
+                    width: 30%;
                 }
             }
         `

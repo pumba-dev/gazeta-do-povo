@@ -18,13 +18,19 @@ function styles() {
             height: max-content;
           }
 
-          @media ( min-width: 426px) {
+          @media (min-width: 375px) {
+            .logo-text {
+              font-size: 1.3rem;
+            }
+          }
+
+          @media ( min-width: 425px) {
             .logo-text {
               font-size: 1.4rem;
             }
           }
 
-          @media (min-width: 769px) {
+          @media (min-width: 768px) {
             .logo-text {
               font-size: 1.7rem;
             }
@@ -35,6 +41,11 @@ function styles() {
               font-size: 2.2rem;
             }
           }
-        `
+
+          @media (min-width: 2560px) {
+            .logo-text {
+              font-size: 2.5rem;
+            }
+          }`
   return style
 }
