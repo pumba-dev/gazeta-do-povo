@@ -1,4 +1,4 @@
-import createLogoIcon from '../shared/LogoIcon.js'
+import createLogoIcon from './LogoIcon.js'
 import createLogoText from './LogoText.js'
 import createHeaderNav from './HeaderNav.js'
 
