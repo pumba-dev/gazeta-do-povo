@@ -6,7 +6,7 @@ export default function SearchIcon() {
 
     const $searchIcon = document.createElement('img')
     $searchIcon.classList.add('icon')
-    $searchIcon.setAttribute('src', getSourceURL('search-icon', '../../assets'))
+    $searchIcon.setAttribute('src', getSourceURL('search-icon', 'svg'))
 
     $iconBox.appendChild($searchIcon)
 

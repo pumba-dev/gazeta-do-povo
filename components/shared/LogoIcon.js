@@ -6,7 +6,7 @@ export default function LogoIcon() {
 
     const $logoIcon = document.createElement('img')
     $logoIcon.classList.add('logo-icon')
-    $logoIcon.src = getSourceURL('gazeta-logo', '../../assets')
+    $logoIcon.src = getSourceURL('gazeta-logo', 'svg')
 
     $logoBox.appendChild($logoIcon)
 

@@ -1,6 +1,6 @@
-export function getSourceURL(iconName, path) {
+export function getSourceURL(iconName, type) {
     return new URL(
-        `/${path}/${iconName}.svg`,
+        `../assets/${iconName}.${type}`,
         import.meta.url
     ).href;
 }
