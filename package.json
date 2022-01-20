@@ -2,10 +2,10 @@
   "name": "gazeta-test",
   "version": "0.0.0",
   "scripts": {
-    "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "node index.js"
   },
   "devDependencies": {
     "vite": "^2.7.2"
