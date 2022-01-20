@@ -1,8 +1,10 @@
 import { getSourceURL } from "../../scripts/getSourceURL"
 
 export default function LogoIcon() {
-    const $logoBox = document.createElement('div')
+    const $logoBox = document.createElement('a')
     $logoBox.classList.add('logo-box')
+    $logoBox.href = "https://clube.gazetadopovo.com.br/"
+    $logoBox.target = "_blank"
 
     const $logoIcon = document.createElement('img')
     $logoIcon.classList.add('logo-icon')
