@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node main.js"
+    "start": "node server.js"
   },
   "devDependencies": {
     "vite": "^2.7.2"
