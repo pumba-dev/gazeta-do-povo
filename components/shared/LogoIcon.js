@@ -4,13 +4,21 @@ export default function LogoIcon() {
 
     const $logoIcon = document.createElement('img')
     $logoIcon.classList.add('logo-icon')
-    $logoIcon.src = '/assets/gazeta-logo.svg'
+    $logoIcon.src = getIconUrl()
 
     $logoBox.appendChild($logoIcon)
 
     $logoBox.appendChild(styles())
 
     return $logoBox
+}
+
+function getIconUrl() {
+    const iconName = "gazeta-logo"
+    return new URL(
+        `../../assets/${iconName}.svg`,
+        import.meta.url
+    ).href;
 }
 
 function styles() {
