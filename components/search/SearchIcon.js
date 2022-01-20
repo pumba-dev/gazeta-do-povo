@@ -1,10 +1,12 @@
+import { getSourceURL } from "../../scripts/getSourceURL"
+
 export default function SearchIcon() {
     const $iconBox = document.createElement('div')
     $iconBox.classList.add('icon-box')
 
     const $searchIcon = document.createElement('img')
     $searchIcon.classList.add('icon')
-    $searchIcon.setAttribute('src', './assets/search-icon.svg')
+    $searchIcon.setAttribute('src', getSourceURL('search-icon', '../../assets'))
 
     $iconBox.appendChild($searchIcon)
 

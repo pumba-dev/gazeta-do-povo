@@ -1,24 +1,18 @@
+import { getSourceURL } from "../../scripts/getSourceURL"
+
 export default function LogoIcon() {
     const $logoBox = document.createElement('div')
     $logoBox.classList.add('logo-box')
 
     const $logoIcon = document.createElement('img')
     $logoIcon.classList.add('logo-icon')
-    $logoIcon.src = getIconUrl()
+    $logoIcon.src = getSourceURL('gazeta-logo', '../../assets')
 
     $logoBox.appendChild($logoIcon)
 
     $logoBox.appendChild(styles())
 
     return $logoBox
-}
-
-function getIconUrl() {
-    const iconName = "gazeta-logo"
-    return new URL(
-        `../../assets/${iconName}.svg`,
-        import.meta.url
-    ).href;
 }
 
 function styles() {
