@@ -16,7 +16,22 @@ class Establishments extends HTMLElement {
         const $search = createSearch()
         const $cardList = createCardList()
 
+        // SEARCH ON DEMAND BY USER INPUT
+        const $searchInput = $search.childNodes[1].firstChild
+        $searchInput.addEventListener('keyup', (event) => {
+            for (let i = 1; i < $cardList.childNodes.length; i++) {
+                const $card = $cardList.childNodes[i]
+                const $cardTitle = $card.childNodes[1].firstChild
 
+                if (
+                    $cardTitle.textContent.toLowerCase().includes($searchInput.value.toLowerCase())
+                ) {
+                    $card.style.display = 'flex'
+                } else {
+                    $card.style.display = 'none'
+                }
+            }
+        })
 
         $establishments.appendChild($search)
         $establishments.appendChild($cardList)

@@ -25,7 +25,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Implementar Lista de Estabelecimentos
 - [x] Listar Estabelecimentos em Ordem Alfabética
 - [x] Layout Responsivo
-- [ ] Implementar Busca
+- [x] Implementar Busca
 - [ ] Implementar Paginação
 
 ## 📝 Pré-requisitos
