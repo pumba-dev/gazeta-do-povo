@@ -1,5 +1,5 @@
-import '../shared/Logo.js'
-import createlogoText from './LogoText.js'
+import createLogoIcon from '../shared/LogoIcon.js'
+import createLogoText from './LogoText.js'
 import createHeaderNav from './HeaderNav.js'
 
 class Header extends HTMLElement {
@@ -16,9 +16,9 @@ class Header extends HTMLElement {
         const $headerLogo = document.createElement('div')
         $headerLogo.classList.add('header-logo')
 
-        const $logoIcon = document.createElement('logo-icon')
+        const $logoIcon = createLogoIcon()
 
-        const $logoText = createlogoText()
+        const $logoText = createLogoText()
 
         const $headerNav = createHeaderNav()
         $headerNav.classList.add('header-nav')
