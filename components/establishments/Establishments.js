@@ -1,5 +1,6 @@
 import createSearch from '../search/Search'
 import createCardList from '../card-list/CardList.js'
+import createCardNav from '../card-nav/CardNav.js'
 
 class Establishments extends HTMLElement {
     constructor() {
@@ -15,6 +16,7 @@ class Establishments extends HTMLElement {
 
         const $search = createSearch()
         const $cardList = createCardList()
+        const $cardNav = createCardNav()
 
         // SEARCH ON DEMAND BY USER INPUT
         const $searchInput = $search.childNodes[1].firstChild
@@ -35,6 +37,7 @@ class Establishments extends HTMLElement {
 
         $establishments.appendChild($search)
         $establishments.appendChild($cardList)
+        $establishments.appendChild($cardNav)
         $establishments.appendChild(this.styles())
         shadow.appendChild($establishments)
     }

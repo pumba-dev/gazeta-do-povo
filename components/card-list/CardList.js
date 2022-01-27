@@ -1,17 +1,23 @@
 import { establishmentsApi } from "../../plugins/establishmentsApi.js"
 import createCard from "./Card.js"
 
-
 export default function CardList() {
+
     const $cardList = document.createElement('section')
     $cardList.classList.add('card-list')
+
     getEstablishments().then(establishmentList => {
         establishmentList.forEach(establishment => {
             const $card = createCard(establishment)
             $cardList.appendChild($card)
         })
     })
+
+    console.log("Child Count: " + $cardList.childElementCount)
+    console.log($cardList)
+
     $cardList.appendChild(styles())
+
     return $cardList
 }
 
